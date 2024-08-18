@@ -1,0 +1,19 @@
+{
+  "casas": [
+    {
+      "direccion": "Calle Primavera 123",
+      "ciudad": "Madrid",
+      "precio": 250000
+    },
+    {
+      "direccion": "Avenida del Sol 456",
+      "ciudad": "Barcelona",
+      "precio": 320000
+    },
+    {
+      "direccion": "Plaza Mayor 789",
+      "ciudad": "Valencia",
+      "precio": 275000
+    }
+  ]
+}
